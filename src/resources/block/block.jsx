@@ -8,7 +8,7 @@ import * as Img from "../img/db";
 
 const WeatherWidget = () => {
 
-    const apiKey = "a0aa51907d7a47e7bc6e0424cb01a255";
+    const apiKey = "YOURAPIKEY";
     const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&";
 
 
